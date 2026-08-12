@@ -1,6 +1,6 @@
 ## Hey, I'm Mik
 
-I'm a web developer specialized in front-end tech (semantic HTML, modern CSS and JavaScript/TypeScript) who's expanding his skill set towards the backend.
+I'm a self-taught web developer specialized in front-end technologies (semantic HTML, modern CSS and JavaScript/TypeScript) who's expanding his skill set towards the backend. I began my journey as a graphic design student in 2013, when I wanted to build an interactive portfolio. I've been at it ever since.
 
 Namely, I'm currently spending time learning about how to:
 
