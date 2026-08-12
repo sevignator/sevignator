@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Mik
 
-<!--
-**sevignator/sevignator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer specialized in front-end tech (semantic HTML, modern CSS and JavaScript/TypeScript) who's expanding his skill set towards the backend.
 
-Here are some ideas to get you started:
+Namely, I'm currently spending time learning about how to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- set up server software applications using JavaScript runtimes
+- create and manage relational databases (primarily with PostgreSQL and SQLite)
+- administer my own virtual private server (VPS)
+
+Of course, I'm also keeping track of the latest additions to the web platform.
+
+Books that I'm currently reading:
+
+- Designing Data-Intensive Applications (2nd edition)
+- The Healthy Programmer (2nd edition)
+- Deep Work
